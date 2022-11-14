@@ -1,6 +1,6 @@
 # Andela Stefanovic
  *** ******, Storrs, CT 06269  
- ***-***-****
+ ***************************
  andela.stefanovic@uconn.edu  
  https://www.linkedin.com/in/andela-stefanovic/  
 ![Picture of Andela Stefanovic](Slika1.png)
