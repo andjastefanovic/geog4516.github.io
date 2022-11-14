@@ -16,14 +16,14 @@ _Bachelor of Science and Engineering, Expected Graduation Date: May 2023_
 
 # Work Experience
 ## University of Connecticut (Storrs, Connecticut)
-**Student Researcher for a UConn-based STEAM project** (May 2020 - Present)  
+**Student Researcher for a UConn-based STEAM project** (_May 2020 - Present_)  
 Working under Material Science and Engineering Department on creating a Solar Tree at the University.  
 
 - Working on solar cells and solar panels
 - Working on Social Media Team
 - Created and maintained website for the project
 
-**Student Supervisor at UC Cafes** (September 2018 - Present)  
+**Student Supervisor at UC Cafes** (_September 2018 - Present_)  
 - Supervised, trained and developed team members in accordance with company
 policies and procedures.
 - Motivated and disciplined employees according to established requirements.
