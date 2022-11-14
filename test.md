@@ -1,6 +1,6 @@
 # Andela Stefanovic
- 310 Sprague, Storrs, CT 06269  
- 646-683-9777  
+ *** ******, Storrs, CT 06269  
+ ***-***-****  
  andela.stefanovic@uconn.edu  
  https://www.linkedin.com/in/andela-stefanovic/  
 ![Picture of Andela Stefanovic](Slika1.png)
