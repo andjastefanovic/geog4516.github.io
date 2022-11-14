@@ -3,7 +3,7 @@
  646-683-9777  
  andela.stefanovic@uconn.edu  
  https://www.linkedin.com/in/andela-stefanovic/  
-![Picture of Andela Stefanovic](Slika1.png)
+![Picture of Andela Stefanovic](Slika1.png = 250x250)
 # Summary
  Currently a student at the University of Connecticut, finishing dual degree in Computer Science and Engineering, with a specialization in cybersecurity and minor in mathematics, and Geographic Information Science. Expected graduation date is May 2023.
 
